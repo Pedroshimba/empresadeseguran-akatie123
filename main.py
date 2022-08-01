@@ -16,13 +16,13 @@ if (nome == 'Luquinhas123' and senha == 'senhadoida'):
     print("")
     print("Ola senhor Luquinhas o que o senhor deseja?")
     print("")
-    a = input("Enviar tropas - a / Procurar Pessoas - b / Sair da Conta - c: ")
+    a = input("Enviar carros - a / Procurar Pessoas - b / Sair da Conta - c: ")
 
     if (a == 'a'):
         print("")
         print("OK")
         print("")
-        numero = input("Quantas tropas o senhor deseja enviar? ")
+        numero = input("Quantos carros o senhor deseja enviar? ")
         lugar = input("Para qual lugar o senhor deseja envia-las? ")
         senha2 = input("Digite a senha 2 para concluir a solicitação: ")
 
@@ -31,7 +31,7 @@ if (nome == 'Luquinhas123' and senha == 'senhadoida'):
             print("Carregando...")
             time.sleep(4)
             print("")
-            print(numero, "tropas foram enviadas para", lugar, "com êxito")
+            print(numero, "carros foram enviadas para", lugar, "com êxito")
 
         else:
             print("")

@@ -5,4 +5,4 @@ Senha - senhadoida
 
 -----------------------------------------------------------------------------------------------------------
 
-Para enviar tropas teste use a senha - senhadoida2
+Para enviar carros use a senha - senhadoida2

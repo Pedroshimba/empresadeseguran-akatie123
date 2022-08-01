@@ -14,7 +14,7 @@ if (nome == 'Luquinhas123' and senha == 'senhadoida'):
     time.sleep(4)
     print("OK")
     print("")
-    print("Ola senhor Pedro o que o senhor deseja?")
+    print("Ola senhor Luquinhas o que o senhor deseja?")
     print("")
     a = input("Enviar tropas - a / Procurar Pessoas - b / Sair da Conta - c: ")
 
